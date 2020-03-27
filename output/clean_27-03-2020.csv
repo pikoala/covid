@@ -1,0 +1,118 @@
+Cod Istat,Wohngemeinde,Comune di residenza,Numero casi al 20-03-2020,Numero casi al 21-03-2020,Numero casi al 22-03-2022,Numero casi al 26-03-2020,quarantined,aumento di casi dal giorno precedente,positives
+21001,Aldein,Aldino,6.0,6.0,6.0,7.0,7.0,0.0,1.0
+21002,Andrian,Andriano,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+21003,Altrei,Anterivo,0.0,0.0,0.0,1.0,1.0,0.0,1.0
+21004,Eppan a.d. Weinstr.,Appiano s.s.d.v.,86.0,87.0,90.0,158.0,163.0,5.0,43.0
+21005,Hafling,Avelengo,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21006,Abtei,Badia,11.0,12.0,14.0,42.0,42.0,0.0,14.0
+21007,Barbian,Barbiano,2.0,3.0,3.0,7.0,7.0,0.0,1.0
+21008,Bozen,Bolzano,393.0,414.0,441.0,624.0,766.0,142.0,227.0
+21009,Prags,Braies,0.0,0.0,4.0,4.0,4.0,0.0,2.0
+21010,Brenner,Brennero,13.0,13.0,13.0,58.0,66.0,8.0,7.0
+21011,Brixen,Bressanone,66.0,79.0,84.0,132.0,164.0,32.0,42.0
+21012,Branzoll,Bronzolo,3.0,3.0,3.0,4.0,7.0,3.0,2.0
+21013,Bruneck,Brunico,12.0,17.0,28.0,61.0,81.0,20.0,17.0
+21014,Kuens,Caines,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21015,Kaltern a.d. Weinstr.,Caldaro s.s.d.v.,24.0,26.0,28.0,36.0,38.0,2.0,10.0
+21016,Freienfeld,Campo di Trens,16.0,23.0,23.0,26.0,27.0,1.0,5.0
+21017,Sand in Taufers,Campo Tures,7.0,18.0,18.0,19.0,22.0,3.0,4.0
+21018,Kastelbell-Tschars,Castelbello-Ciardes,0.0,0.0,0.0,2.0,2.0,0.0,0.0
+21019,Kastelruth,Castelrotto,85.0,85.0,97.0,145.0,179.0,34.0,58.0
+21020,Tscherms,Cermes,0.0,0.0,1.0,4.0,5.0,1.0,0.0
+21021,Kiens,Chienes,4.0,5.0,9.0,10.0,16.0,6.0,8.0
+21022,Klausen,Chiusa,10.0,10.0,10.0,25.0,27.0,2.0,8.0
+21023,Karneid,Cornedo all'Isarco,15.0,17.0,17.0,19.0,19.0,0.0,8.0
+21024,Kurtatsch a.d.Weinstr.,Cortaccia s.s.d.v.,1.0,1.0,2.0,2.0,6.0,4.0,1.0
+21025,Kurtinig a.d. Weinstr.,Cortina s.s.d.v.,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21026,Corvara,Corvara in Badia,11.0,14.0,14.0,35.0,39.0,4.0,14.0
+21027,Graun im Vinschgau,Curon Venosta,2.0,2.0,2.0,7.0,7.0,0.0,2.0
+21028,Toblach,Dobbiaco,1.0,1.0,1.0,10.0,13.0,3.0,3.0
+21029,Neumarkt,Egna,18.0,18.0,20.0,30.0,30.0,0.0,8.0
+21030,Pfalzen,Falzes,2.0,3.0,3.0,4.0,9.0,5.0,3.0
+21031,Völs am Schlern,Fie' allo Sciliar,11.0,11.0,16.0,22.0,24.0,2.0,6.0
+21032,Franzensfeste,Fortezza,0.0,0.0,0.0,6.0,6.0,0.0,4.0
+21033,Villnöss,Funes,11.0,11.0,11.0,13.0,31.0,18.0,3.0
+21034,Gais,Gais,2.0,4.0,4.0,14.0,14.0,0.0,2.0
+21035,Gargazon,Gargazzone,7.0,7.0,7.0,7.0,7.0,0.0,0.0
+21036,Glurns,Glorenza,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21037,Latsch,Laces,6.0,6.0,7.0,8.0,8.0,0.0,0.0
+21038,Algund,Lagundo,7.0,7.0,7.0,10.0,18.0,8.0,7.0
+21039,Lajen,Laion,21.0,27.0,36.0,40.0,43.0,3.0,16.0
+21040,Leifers,Laives,32.0,38.0,38.0,59.0,68.0,9.0,24.0
+21041,Lana,Lana,8.0,11.0,15.0,25.0,28.0,3.0,6.0
+21042,Laas,Lasa,5.0,5.0,5.0,6.0,6.0,0.0,2.0
+21043,Laurein,Lauregno,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21044,Lüsen,Luson,0.0,0.0,0.0,0.0,1.0,1.0,0.0
+21045,Margreid a.d. Weinstr.,Magre' s.s.d.v.,1.0,1.0,1.0,1.0,2.0,1.0,0.0
+21046,Mals,Malles Venosta,2.0,2.0,2.0,2.0,2.0,0.0,0.0
+21047,Enneberg,Marebbe,13.0,18.0,18.0,30.0,32.0,2.0,7.0
+21048,Marling,Marlengo,1.0,1.0,1.0,7.0,8.0,1.0,1.0
+21049,Martell,Martello,1.0,1.0,1.0,1.0,1.0,0.0,0.0
+21050,Mölten,Meltina,1.0,1.0,1.0,9.0,10.0,1.0,1.0
+21051,Meran,Merano,91.0,95.0,100.0,172.0,192.0,20.0,58.0
+21052,Welsberg-Taisten,Monguelfo-Tesido,3.0,3.0,3.0,7.0,8.0,1.0,6.0
+21053,Montan,Montagna,14.0,16.0,16.0,8.0,9.0,1.0,4.0
+21054,Moos in Passeier,Moso in Passiria,14.0,14.0,14.0,21.0,21.0,0.0,5.0
+21055,Nals,Nalles,6.0,6.0,6.0,7.0,7.0,0.0,3.0
+21056,Naturns,Naturno,4.0,6.0,6.0,10.0,10.0,0.0,1.0
+21057,Natz-Schabs,Naz-Sciaves,25.0,25.0,27.0,34.0,34.0,0.0,5.0
+21058,Welschnofen,Nova Levante,22.0,22.0,22.0,19.0,20.0,1.0,0.0
+21059,Deutschnofen,Nova Ponente,51.0,55.0,55.0,62.0,63.0,1.0,4.0
+21060,Auer,Ora,6.0,6.0,10.0,14.0,18.0,4.0,6.0
+21061,St.Ulrich,Ortisei,166.0,167.0,175.0,214.0,218.0,4.0,41.0
+21062,Partschins,Parcines,0.0,0.0,2.0,4.0,4.0,0.0,0.0
+21063,Percha,Perca,1.0,1.0,1.0,2.0,8.0,6.0,1.0
+21064,Plaus,Plaus,0.0,0.0,0.0,1.0,2.0,1.0,0.0
+21065,Waidbruck,Ponte Gardena,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21066,Burgstall,Postal,3.0,4.0,4.0,7.0,12.0,5.0,2.0
+21067,Prad am Stilfser Joch,Prato allo Stelvio,4.0,4.0,4.0,9.0,9.0,0.0,1.0
+21068,Prettau,Predoi,0.0,0.0,0.0,4.0,4.0,0.0,1.0
+21069,Proveis,Proves,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21070,Ratschings,Racines,10.0,15.0,20.0,26.0,30.0,4.0,8.0
+21071,Rasen-Antholz,Rasun Anterselva,0.0,1.0,1.0,3.0,3.0,0.0,0.0
+21072,Ritten,Renon,9.0,10.0,19.0,32.0,34.0,2.0,9.0
+21073,Riffian,Rifiano,0.0,2.0,2.0,4.0,4.0,0.0,2.0
+21074,Mühlbach,Rio di Pusteria,3.0,3.0,3.0,4.0,9.0,5.0,1.0
+21075,Rodeneck,Rodengo,1.0,1.0,1.0,10.0,10.0,0.0,3.0
+21076,Salurn,Salorno,1.0,1.0,1.0,8.0,12.0,4.0,8.0
+21077,Innichen,S.Candido,1.0,1.0,7.0,11.0,11.0,0.0,4.0
+21079,Jenesien,S.Genesio Atesino,4.0,5.0,5.0,8.0,9.0,1.0,4.0
+21080,St.Leonhard in Pass.,S.Leonardo in Passiria,1.0,1.0,1.0,23.0,28.0,5.0,7.0
+21081,St.Lorenzen,S.Lorenzo di Sebato,4.0,5.0,8.0,14.0,18.0,4.0,3.0
+21082,St.Martin in Thurn,S.Martino in Badia,4.0,4.0,4.0,11.0,11.0,0.0,2.0
+21083,St.Martin in Passeier,S.Martino in Passiria,11.0,11.0,11.0,18.0,18.0,0.0,4.0
+21084,St.Pankraz,S.Pancrazio,4.0,4.0,4.0,4.0,4.0,0.0,1.0
+21085,St.Christina in Gröden,S.Cristina Valgardena,45.0,56.0,58.0,57.0,61.0,4.0,18.0
+21086,Sarntal,Sarentino,1.0,1.0,1.0,12.0,15.0,3.0,3.0
+21087,Schenna,Scena,2.0,3.0,3.0,5.0,6.0,1.0,1.0
+21088,Mühlwald,Selva dei Molini,1.0,2.0,2.0,1.0,2.0,1.0,0.0
+21089,Wolkenstein in Gröden,Selva di Val Gardena,136.0,140.0,144.0,153.0,160.0,7.0,39.0
+21091,Schnals,Senales,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21092,Sexten,Sesto,0.0,0.0,0.0,1.0,1.0,0.0,0.0
+21093,Schlanders,Silandro,15.0,16.0,16.0,18.0,19.0,1.0,3.0
+21094,Schluderns,Sluderno,1.0,1.0,1.0,3.0,3.0,0.0,0.0
+21095,Stilfs,Stelvio,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21096,Terenten,Terento,0.0,1.0,1.0,2.0,2.0,0.0,0.0
+21097,Terlan,Terlano,14.0,25.0,25.0,44.0,45.0,1.0,10.0
+21098,Tramin a.d. Weinstr.,Termeno s.s.d.v.,1.0,1.0,1.0,3.0,4.0,1.0,0.0
+21099,Tisens,Tesimo,9.0,9.0,17.0,23.0,23.0,0.0,2.0
+21100,Tiers,Tires,18.0,18.0,18.0,18.0,18.0,0.0,0.0
+21101,Tirol,Tirolo,2.0,2.0,2.0,5.0,7.0,2.0,3.0
+21102,Truden im Naturpark,Trodena nel parco naturale,8.0,8.0,8.0,12.0,12.0,0.0,2.0
+21103,Taufers im Münstertal,Tubre,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+21104,Ulten,Ultimo,2.0,2.0,2.0,8.0,8.0,0.0,1.0
+21105,Pfatten,Vadena,2.0,2.0,2.0,2.0,3.0,1.0,1.0
+21106,Olang,Valdaora,1.0,4.0,6.0,10.0,13.0,3.0,7.0
+21107,Pfitsch,Val di Vizze,28.0,30.0,30.0,38.0,40.0,2.0,7.0
+21108,Ahrntal,Valle Aurina,1.0,1.0,1.0,17.0,19.0,2.0,4.0
+21109,Gsies,Valle di Casies,2.0,2.0,2.0,8.0,13.0,5.0,2.0
+21110,Vintl,Vandoies,6.0,6.0,6.0,9.0,12.0,3.0,2.0
+21111,Vahrn,Varna,13.0,13.0,13.0,22.0,22.0,0.0,8.0
+21112,Vöran,Verano,0.0,2.0,2.0,1.0,1.0,0.0,0.0
+21113,Niederdorf,Villabassa,0.0,0.0,2.0,4.0,4.0,0.0,13.0
+21114,Villanders,Villandro,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+21115,Sterzing,Vipiteno,22.0,22.0,22.0,40.0,42.0,2.0,16.0
+21116,Feldthurns,Velturno,7.0,7.0,7.0,12.0,14.0,2.0,5.0
+21117,Wengen,La Valle,2.0,2.0,2.0,13.0,13.0,0.0,4.0
+21118,U.L.Frau i.W.-St.Felix,Senale-S.Felice,2.0,2.0,2.0,6.0,6.0,0.0,3.0
+Totale complessivo,0,0,1855.0,2011.0,2158.0,3215.0,3669.0,454.0,1003.0
