@@ -15,6 +15,7 @@ request = "*"
 ipywidgets = "*"
 ipyleaflet = "*"
 pyshp = "*"
+imageio = "*"
 
 [requires]
 python_version = "3.8"
