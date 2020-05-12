@@ -20,6 +20,7 @@ unidecode = "*"
 scipy = "*"
 matplotlib = "*"
 plotly = "*"
+pytrends = "*"
 
 [requires]
 python_version = "3.8"
